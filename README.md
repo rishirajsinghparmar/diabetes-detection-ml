@@ -1,25 +1,27 @@
 # Early Diabetes Detection System
 
+## 🔗 Live Demo
+👉 https://prakharpathak919-early-diabetes-detection-app-up1dez.streamlit.app/
+
 ## Overview
-This project is a machine learning-based system that predicts early-stage diabetes using medical datasets.
+This project is a machine learning-based web application that predicts early-stage diabetes using medical data.
 
 ## Features
-- Data preprocessing and feature engineering
-- Machine learning model for prediction
-- Streamlit web app with interactive dashboard
-- Real-time predictions and report generation
+- Real-time diabetes prediction
+- Interactive Streamlit dashboard
+- User-friendly input interface
+- Automated result generation
 
 ## Tech Stack
 - Python
 - Scikit-learn
-- Pandas
-- NumPy
+- Pandas, NumPy
 - Streamlit
 
-## Project Description
-The system analyzes patient health data and predicts the likelihood of diabetes. It provides visual insights and automated reports for better healthcare decisions.
+## How it Works
+Users enter health parameters such as glucose level, BMI, and blood pressure. The trained machine learning model processes the input and predicts whether the person is diabetic or not.
 
-## Future Improvements
-- Improve model accuracy with larger datasets
-- Add more medical parameters
-- Deploy on cloud for scalability
+## Project Highlights
+- Deployed as a live web application
+- End-to-end ML pipeline (data → model → deployment)
+- Real-world healthcare use case
