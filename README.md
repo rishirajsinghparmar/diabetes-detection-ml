@@ -44,3 +44,9 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+
+## Screenshots
+
+![App](screenshot1.png)
+
+![Result](screenshot2.png)
