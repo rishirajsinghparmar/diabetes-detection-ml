@@ -45,8 +45,14 @@ pip install -r requirements.txt
 # Run the application
 streamlit run app.py
 
-## Screenshots
+## 📸 Screenshots
 
-![App](screenshot1.png)
+### 📊 Dashboard
+![Dashboard](dashboard.png)
 
-![Result](screenshot2.png)
+### 🧾 Input Form
+![Input](input.png)
+
+### 📈 Prediction Results
+![Result 1](result1.png)
+![Result 2](result2.png)
